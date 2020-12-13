@@ -1,3 +1,7 @@
 Financial Analysis
 --------------------------------
-The total number of months included in the dataset is 86The net total amount of Profit/Losses over the entire period is $38,382,578.00Average Change: $-2,315.12Greatest Increase in Profits: Feb-2012 ($1926159)Greatest Decrease in Profits: Sep-2013 ($-2196167)
+The total number of months included in the dataset is 86
+The net total amount of Profit/Losses over the entire period is $38,382,578.00
+Average Change: $-2,315.12
+Greatest Increase in Profits: Feb-2012 ($1926159)
+Greatest Decrease in Profits: Sep-2013 ($-2196167)
